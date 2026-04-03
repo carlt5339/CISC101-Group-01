@@ -1,0 +1,5 @@
+{
+  "name": "StudyNotesToQuiz-v5.1",
+  "description": "Generate custom quizzes from your study notes using AI. Select difficulty, question types, and refine results via chat.",
+  "requestFramePermissions": []
+}
